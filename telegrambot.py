@@ -5,7 +5,7 @@ from telegram.ext.commandhandler import CommandHandler
 from telegram.ext.messagehandler import MessageHandler
 from telegram.ext.filters import Filters
 
-API_KEY = '1558473705:AAH3QOeyxZYxxJMs2-L8lYesWNANeFztQdQ'
+API_KEY = ''
 
 
 updater = Updater(API_KEY, use_context=True)
